@@ -15,12 +15,12 @@ Origine : [Docker et Netcat](https://hackropole.fr/fr/challenges/misc/fcsc2024-m
 > http://localhost
 
 #### tentez 
-> nc welcome-docker.cyrhades.fr:4000
+> nc welcome-docker.cyrhades.fr 4000
 
 -----------
 
 ## Ou directement avec netcat
-> nc localhost:4000
+> nc localhost 4000
 
 
 -----------
